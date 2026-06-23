@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Database
+uniassist.db
+
+# Uploaded handbook files
+uploads/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+myenv/
+venv/
+ENV/
